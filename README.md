@@ -100,13 +100,12 @@ $ git commit -m "Jira 이슈 번호 | Header | 설명"
 - JIRA 이슈 번호 or README
 - Header
   - Initial : 가장 처음 만든 코드
+  
   - Update : 정상적으로 동작하면서 수정/추가/보완된 코드
+  
   - Fix : 비정상 동작 수정 코드
-- 설명
-
-
-
-## 프로젝트는 개발중...
+  
+    
 
 ### Entity-Relationship Diagram(ERD)
 
@@ -116,17 +115,16 @@ $ git commit -m "Jira 이슈 번호 | Header | 설명"
 
 
 
-### API 명세서
+### 학습 데이터 다운로드
 
--------------------------------
+----------------------------------------------
 
-> api명세서 설명을 간단하게 하고 링크를 걸까 합니다.
+[face_image 다운로드](https://drive.google.com/file/d/1ZKGkdqU5PDaOay3bcXJhKmg9yJUPVNIw/view?usp=sharing)
 
+### Reference
 
+---------------------
 
-### 자료조사 & 학습내용
-
-------------
-
-> 기술 자료나 내용을 적어봐요~ 적어봐요ㅎㅎ
+- https://www.tensorflow.org/api_docs/python/tf/all_symbols
+- https://github.com/Wanguy/Inception_Tensorflow
 
